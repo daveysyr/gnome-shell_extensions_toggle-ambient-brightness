@@ -1,0 +1,7 @@
+{
+  "uuid": "toggle-ambient-brightness@davesawyer.co.uk",
+  "name": "Toggle Ambient Brightness",
+  "description": "Adds a toggle to disable GNOME’s hidden ambient brightness behaviour.",
+  "shell-version": ["45", "46", "47", "48"],
+  "version": 1
+}
