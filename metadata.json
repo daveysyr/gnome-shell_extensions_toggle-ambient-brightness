@@ -4,5 +4,5 @@
   "description": "Provides a simple toggle to disable GNOME’s hidden ambient brightness behaviour and keep screen brightness constant unless changed manually.",
   "shell-version": ["45", "46", "47", "48"],
   "url": "https://github.com/daveysyr/gnome-shell_extensions_toggle-ambient-brightness",
-  "version": 1.01
+  "version": 2
 }
